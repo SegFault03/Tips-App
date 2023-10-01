@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Tips-App</string>
+    <string name="dropdown_arrow">Click to expand</string>
+
+    <string name="tip_sn1">TIP 1</string>
+    <string name="tip_sn2">TIP 2</string>
+    <string name="tip_sn3">TIP 3</string>
+    <string name="tip_sn4">TIP 4</string>
+    <string name="tip_sn5">TIP 5</string>
+    <string name="tip_sn6">TIP 6</string>
+    <string name="tip_sn7">TIP 7</string>
+
+    <string name="tip_1">Read books</string>
+    <string name="tip_2">Introspect on life and think about all the bad things you\'ve done so far</string>
+    <string name="tip_3">Meditate</string>
+    <string name="tip_4">Reflect on your acts</string>
+    <string name="tip_5">Go on a trip</string>
+    <string name="tip_6">Watch the sunset</string>
+    <string name="tip_7">Do Yoga</string>
+
+    <string name="tip_desc_1">
+        Reading good books can help in both soothing your mind and keeping it sharp.
+        Besides, some extra knowledge can always come in handy!
+    </string>
+
+    <string name="tip_desc_2">
+        Introspect on your life, especially on your
+        past, present and the future. Think about how your life has been so far. This will help
+        you in gaining a better understanding of yourself.
+    </string>
+
+    <string name="tip_desc_3">
+        Meditate at least once a day. Find a quiet, serene place, and
+        meditate for 2-3 minutes at least. It will help calm your mind and you\'ll be able to achieve
+        clarity
+    </string>
+
+    <string name="tip_desc_4">
+        Reflect on the acts and the deeds that you\'ve done. Think whether
+        you made the right decisions. What does your conscience say?
+    </string>
+
+    <string name="tip_desc_5">
+        Going on a trip will not only refresh your body and mind, but
+        it will also help you gain new perspectives and see the world in a different light. Besides,
+        who doesn\'t want a well earned vacation?
+    </string>
+
+    <string name="tip_desc_6">
+        Go somewhere from where you can get a good view of the sun when it sets. You may experience
+        a deep melancholic sorrow, or feel nostalgic, and this will help you put your priorities
+        in focus
+    </string>
+
+    <string name="tip_desc_7">
+        Yoga can help clear one\'s body and mind and cleanse one\'s soul. Or so they say. Maybe
+        try it out yourself? Not like you\'ve got anything better to do.
+    </string>
+</resources>
